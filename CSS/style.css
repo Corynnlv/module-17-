@@ -28,6 +28,7 @@ section {
     width: 150px;
     height: 150px;
     object-fit: cover;
+    box-shadow: 5px 10px;
   }
   
   .block_element h1 {
